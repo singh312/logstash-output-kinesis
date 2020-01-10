@@ -1,5 +1,4 @@
 /.gradle/
-/*.gem
 .Gemfile.lock
 .Gemfile.bak
 /.bundle
